@@ -1,0 +1,27 @@
+{
+  "dataset": "Zalando Research Fashion-MNIST (vía tf.keras.datasets.fashion_mnist)",
+  "fuente": "https://github.com/zalandoresearch/fashion-mnist",
+  "sha256_imagenes_train_original": "2e487a6c89124f78f2d7521542223cafe96f7123c3ca13d447772ac6ecbb3012",
+  "sha256_imagenes_test_original": "c867c93ff95360594e8ec3287995350b824dd110b11595c0e13d5423f621867a",
+  "train_ejemplos": 54000,
+  "validation_ejemplos": 6000,
+  "test_ejemplos": 10000,
+  "seleccion": "menor pérdida de validación",
+  "epochs_max": 4,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "seed": 42,
+  "fecha_utc": "2026-11-23T03:15:47.137996+00:00",
+  "clases": [
+    "Camiseta/top",
+    "Pantalón",
+    "Suéter",
+    "Vestido",
+    "Abrigo",
+    "Sandalia",
+    "Camisa",
+    "Zapatilla",
+    "Bolso",
+    "Botín"
+  ]
+}

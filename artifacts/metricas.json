@@ -1,0 +1,8 @@
+{
+  "modelo_seleccionado": "CNN",
+  "criterio_seleccion": "menor_val_loss",
+  "test_loss": 0.33241117000579834,
+  "test_accuracy": 0.8779000043869019,
+  "test_f1_macro": 0.8771770417137237,
+  "semilla": 42
+}

@@ -1,0 +1,12 @@
+{
+  "MLP_baseline": {
+    "val_loss": 0.34476274251937866,
+    "val_accuracy": 0.8776666522026062,
+    "parametros": 50890
+  },
+  "CNN": {
+    "val_loss": 0.3059881329536438,
+    "val_accuracy": 0.8868333101272583,
+    "parametros": 56714
+  }
+}
